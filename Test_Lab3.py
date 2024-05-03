@@ -42,7 +42,7 @@ def test_if_interger():
     result=[]
     result = Lab3.bubble_sort(input_arr,Lab3.SORT_ASCENDING)
 
-    assert (result ==2)
+    assert (result == 2)
 
 def test_if_anyNum():
     input_arr=[]
